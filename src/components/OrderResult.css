@@ -1,0 +1,31 @@
+* {
+    list-style: none;
+}
+
+#orderResult {
+    box-sizing: border-box;
+    height: 120vh;
+}
+
+#orderResult .col-4{
+    color: white;
+}
+#orderResult .col-12{
+    color: rgb(226, 48, 226);
+}
+
+#orderResult .mb-3{
+    color: rgb(255, 20, 147);
+}
+
+#resultContent {
+    border-radius: 10px;
+    background-color: rgb(255, 192, 203, 0.8);
+
+    width: 1000px;
+    margin: auto;
+   
+    border: 5px solid #FFFF00;
+    
+
+}

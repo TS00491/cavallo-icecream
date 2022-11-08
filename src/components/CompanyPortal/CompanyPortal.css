@@ -1,0 +1,81 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+#sales-metrics-container {
+  min-height: 700px;
+}
+
+#sales-metrics-container h3 {
+  color:black;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+#sales-metrics-container h2 {
+  color:white;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+
+#orders-table-container button { 
+  background:none;
+  border:none; 
+  color: white;
+}
+
+
+#orders-table-container button:hover {
+  color: black;
+}
+
+#sales-metrics-container button:hover {
+  color: black;
+}
+
+#orders-table-container #custom-date-info {
+  text-decoration: solid;
+  
+}
+
+#pop-flavours-chart-container {
+  padding-left: 20px;
+  padding-bottom: 40px;
+  max-width: 1000px;
+}
+
+#size-table-container {
+  padding-bottom: 120px;
+}
+
+#sales-metrics-container * {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#orders-table-container {
+  font-size:10pt;
+}
+
+@media only screen and (max-width: 1200px) {
+  #orders-table-container{
+      font-size: 8pt;
+  }
+}
+
+#orders-table-container .col-20 {
+  padding-bottom: 15px;
+}
+
+#popularflavours-table-container {
+  padding-bottom: 50px;
+}
+
+.orderType-info h3 {
+  font-size: 12pt;
+  text-decoration: none;
+}
+
+.orderType-info {
+  font-size: 12pt;
+  text-decoration: none;
+}

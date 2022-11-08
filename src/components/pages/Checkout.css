@@ -1,0 +1,22 @@
+#Checkout-container{
+    background-image: url(https://cdn.now.howstuffworks.com/media-content/9e02c4af-da7f-46be-9f1b-f3efff81d815-1920-1080.jpg);
+    
+    justify-content: space-between;
+    background-size: cover;
+    background-position: -250px center;
+    
+}
+
+#Checkout-container {
+    min-height: 1600px;
+    margin: 0;
+}
+
+#Checkout-container .invalid-feedback {
+    color: rgb(255, 89, 89);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+

@@ -1,0 +1,13 @@
+#orderPage-container{
+    background-image: url(https://vogliadisalute.it/wp-content/uploads/2021/02/ice-cream-5928043_1920.jpg);
+    background-size: cover;
+    display: flex;
+    height: 800px;
+    justify-content: flex-start;
+    align-items:center;
+
+}
+
+p {
+    color: black;
+}

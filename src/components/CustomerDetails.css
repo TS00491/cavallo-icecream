@@ -1,0 +1,22 @@
+#customerDetails {
+    padding-top: 10px;
+    max-width: 140%;
+}
+
+.mb-3{
+    color: rgb(255, 20, 147);
+}
+#customerDetails label {
+    position: relative;
+}
+#customerDetails label::after {
+    content: '*';
+    position: absolute;
+    top: 50%;
+    bottom: -0.1rem;
+    color: red;
+    transform: translateY(-50%);
+}
+#customerDetails .driver-instructions::after {
+    content: '';
+}

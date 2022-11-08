@@ -1,0 +1,171 @@
+.background{
+  margin: 50px;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+.iceImages{
+
+  border: 1px solid black;
+  border-radius: 200px;
+
+}
+
+h3{
+  margin-top: 8px;
+  color: rgb(255,255,255);
+  text-decoration: underline;
+}
+
+h4{
+  color: rgb(255,255,255)
+}
+
+#size-dropdown{
+  color: rgb(255, 192, 203);
+  
+}
+
+#Minus-in-container{
+  background: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 16px;
+    vertical-align: middle;
+    margin: 5px;
+    color: rgb(255, 192, 203);;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #FFFF00;
+}
+
+#Plus-in-container{
+  background: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 16px;
+    vertical-align: middle;
+    margin: 5px;
+    color: rgb(255, 192, 203);
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #FFFF00;
+}
+
+#ATC-in-container{
+  background: white;
+    color: rgb(255, 192, 203);
+    margin-top: 15px;
+    border-radius: 20%;
+    width: 100px;
+    border: 2px solid #FFFF00;
+  }
+
+.item-container {
+  background: rgba(238, 126, 182, 0.829);
+  width: 200px;
+  border: thick rgb(255, 20, 147, 0.85) solid;
+  border-radius: 15px;
+  font-size: 14px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.item-container h3{
+  font-size: 15px;
+}
+
+
+.item-container h4 {
+  font-size: 15px;
+  display: inline;
+}
+
+/* image for each item */
+
+#Vanilla-image {
+  background-image: url(./ItemImages/F01.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Vanilla\(Dairy-Free\)-image {
+  background-image: url(./ItemImages/F02.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Rum-and-Raisin-image {
+  background-image: url(./ItemImages/F03.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Honeycomb-image {
+  background-image: url(./ItemImages/F04.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Mint-image {
+  background-image: url(./ItemImages/F05.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Cherry-image {
+  background-image: url(./ItemImages/F06.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Chocolate-image {
+  background-image: url(./ItemImages/F07.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Salted-Caramel-image {
+  background-image: url(./ItemImages/F08.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}
+
+#Strawberry-image {
+  background-image: url(./ItemImages/F09.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  margin: auto;
+  background-position: center;
+}

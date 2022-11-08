@@ -1,0 +1,43 @@
+#filter-buttons {
+    margin: 0;
+    padding-left: 30px;
+}
+
+#order-date-filter-container label {
+    padding: 0;
+    margin: 0;
+}
+
+#end-date {
+    padding-left: 70px;
+}
+
+.filter-text {
+    background:none;
+    border:none; 
+    color: blue;
+    text-decoration: underline;
+}
+
+#order-date-filter-container h4 {
+    color: black;
+    padding-left: 20px;
+}
+
+#order-date-filter-container #custom-text {
+    padding-right: 10px;
+}
+
+#order-date-filter-container #clear-button {
+    padding-left: 20px;
+}
+
+#order-date-filter-container{
+    font-size: 12pt;
+}
+
+@media only screen and (max-width: 1200px) {
+    #order-date-filter-container{
+        font-size: 8pt;
+    }
+}
